@@ -1,4 +1,4 @@
-# Types of AI: natural language processing, machine learning, and deep learning
+
 
 This chapter explores the different types of Artificial Intelligence (AI) techniques that contribute to enhancing well-being with the help of AI. Specifically, it focuses on Natural Language Processing (NLP), Machine Learning (ML), and Deep Learning (DL). These AI techniques have the potential to improve various aspects of our lives and promote optimal well-being.
 

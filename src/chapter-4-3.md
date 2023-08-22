@@ -1,5 +1,4 @@
-Potential limitations and ethical considerations in using chatbots for habit formation
-========================================================================================================================================================
+
 
 Chatbots powered by Artificial Intelligence (AI) technology have become popular tools for developing positive habits and mindsets. In this chapter, we will explore the potential limitations of using chatbots for habit formation and discuss the ethical considerations involved.
 
