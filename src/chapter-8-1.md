@@ -1,5 +1,4 @@
 
-
 Artificial Intelligence (AI) technology has provided individuals with powerful tools to enhance their personal creativity and self-expression. In this chapter, we will explore how AI can be used to generate creative ideas and assist in the design process.
 
 Creative Idea Generation with AI

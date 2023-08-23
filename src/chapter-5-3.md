@@ -1,5 +1,4 @@
 
-
 Artificial Intelligence (AI) technology offers new possibilities for managing stress and improving mental health outcomes. However, it is essential to consider the ethical considerations associated with its adoption. In this chapter, we will explore these ethical considerations when using AI for mental health support.
 
 Potential Limitations of AI for Mental Health Support

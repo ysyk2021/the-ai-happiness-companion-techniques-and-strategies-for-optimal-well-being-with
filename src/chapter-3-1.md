@@ -1,5 +1,4 @@
 
-
 Artificial Intelligence (AI) technology can be a powerful tool for setting and achieving personal well-being goals. In this chapter, we will explore how AI can be used for setting and tracking progress towards personal well-being goals.
 
 Personalized Goal Setting

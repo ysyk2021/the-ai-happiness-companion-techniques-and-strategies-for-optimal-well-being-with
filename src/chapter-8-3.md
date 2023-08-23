@@ -1,5 +1,4 @@
 
-
 Artificial Intelligence (AI) technology offers new possibilities for enhancing personal creativity and self-expression. However, it is essential to consider the ethical considerations associated with its adoption. In this chapter, we will explore these ethical considerations when using AI for creative empowerment.
 
 Potential Limitations of AI for Creative Empowerment
