@@ -1,5 +1,4 @@
-Chapter: Use of AI for Managing Stress and Improving Mental Health, Including Mindfulness Exercises and Cognitive-Behavioral Therapy Techniques
-===============================================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------
